@@ -1,1 +1,1 @@
-# class_project
+# Mini_project
